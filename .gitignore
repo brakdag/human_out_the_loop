@@ -1,2 +1,10 @@
 paser
 paser.log
+capitulos/*.aux
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+main.pdf
+main.toc
